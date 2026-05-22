@@ -277,8 +277,8 @@ body {
 .about-section { gap: 80px; }
 .about-logo-wrapper { flex: 1; display: flex; justify-content: center; }
 .about-big-logo {
-    width: 650px;
-    height: 650px;
+    width: 1000px;
+    height: 1000px;
     border-radius: 50%;
     object-fit: cover;
     display: block;
