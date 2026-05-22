@@ -285,8 +285,8 @@ body {
     justify-content: center; 
 }
 .about-big-logo {
-    width: 100%;       /* This makes the image fill its container */
-    max-width: 400px;  /* This caps the size so it doesn't break your site */
+    width: 80%;       /* This makes the image fill its container */
+    max-width: 300px;  /* This caps the size so it doesn't break your site */
     height: auto;      /* Keeps the circle aspect ratio perfect */
     aspect-ratio: 1 / 1;
     border-radius: 50%;
